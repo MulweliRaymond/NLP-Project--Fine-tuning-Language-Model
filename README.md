@@ -12,11 +12,11 @@ Transformer-based models like AfriBERTa have revolutionized natural language pro
 ## Datasets
 Swahili General Dataset for Fine-Tuning:
 
-* Source: Leipzig Corpora Collection.
+* Source: [Leipzig Corpora Collection](https://wortschatz.uni-leipzig.de/en/download/Swahili%20(macrolanguage)#swa_community_2017)
 * Content: ~100,000 text samples from Swahili Wikipedia, filtered to 5,244 sentences with >200 words.
 * Swahili Tweets Dataset for Sentiment Classification:
 
-* Source: Hugging Face Dataset.
+* Source: [Hugging Face Dataset](https://huggingface.co/datasets/Davis/Swahili-tweet-sentiment)
 * Content: 2,263 labeled tweets with sentiments classified as:
 Negative: 10.6%
 Neutral: 59.2%
